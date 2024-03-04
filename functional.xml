@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<functionalItemSpec xsi:noNamespaceSchemaLocation="tpms/s1000d/eve/comrepEmbAuthoring.xsd"
+	securityClassification="02" id="FIN-0000000140"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<functionalItemIdent functionalItemNumber="A-15-13-24-01-ABfir0315" functionalItemType=""
+		embFunctionalItemRefType="fir03" itemOriginator=""
+		id="FIN-0000000140-FII-e49235dc-e034-4cc5-88b1-c38f24a69f4f"/>
+	<name id="FIN-0000000140_047c9729-ba9d-48ca-a02c-3ddd42852757"/>
+	<functionalPhysicalAreaRef embCirTargetID="FIN-0000000140"
+		id="FIN-0000000140-FPR-7d4775da-739c-43ae-8af7-69bf7afab6a9"/>
+	<softwareClassification softwareClassificationValue=""/>
+	<softwareCustomizationStatus embFinSoftwareCustomizationStatusValue=""
+		id="FIN-0000000140_c49496db-29d7-495b-82e5-e2dbc4a6bcc5"/>
+	<functionalItemRefGroup functionalItemRefType="fir03"
+		id="FIN-0000000140-FIG-a78f05c8-25cf-4a96-bba3-040daa4cb602">
+		<functionalItemRef embCirTargetID=""
+			id="FIN-0000000140-FIR-63723286-f7dc-4a5e-b5f3-1733f5990f96"/>
+	</functionalItemRefGroup>
+	<embLocation id="FIN-0000000140_3108e8e4-1cf0-4b4f-b8c2-7bfeb9b749cf">
+		<zoneRef embCirTargetID="ZON-0000000024" id="15"/>
+	</embLocation>
+	<functionalItemAlts id="FIN-0000000140-FIA-a3f4255c-3a1d-4445-bc82-626971d151a0">
+		<functionalItem altNumber="A-15-13-24-01-ABfir0315-41c0bd74-e52f-485d-94c6-f0d4b499b31f"
+			normativeComponentFlag="" id="FIN-0000000140-FIT-54008a47-560e-4862-b919-1bec415cd58d">
+			<name id="FIN-0000000140_69899914-479b-4077-9d5c-f32edcaefc65"/>
+			<functionalPhysicalAreaRef embCirTargetID=""
+				id="FIN-0000000140-FPR-bcc01b58-b2c7-41c3-bed4-51994f0051cc"/>
+		</functionalItem>
+	</functionalItemAlts>
+</functionalItemSpec>
